@@ -1,1 +1,1 @@
-# Larry-s-Array-ALGO-MEDIUM
+# Larry-s-Array-ALGO-MEDIUM.This program counts the number of inversions in the array (pairs where a larger number precedes a smaller one); if the count is even, it returns "YES" because the array can be sorted with the allowed 3-element rotations, otherwise it returns "NO".
